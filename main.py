@@ -71,7 +71,6 @@ main_page = driver.current_window_handle
 login()
 
 n = 1
-webpage =  driver.current_url
 
 for z in range(0, 100):
 
